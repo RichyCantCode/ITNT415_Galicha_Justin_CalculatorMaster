@@ -70,3 +70,4 @@ if __name__ == "__main__":
 # Updated multiplication module validation
 # Refactored multiplication structure
 # Updated division module validation
+# Added zero-division error handling
